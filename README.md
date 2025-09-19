@@ -8,10 +8,16 @@
 bun i
 ```
 
-### 2. Run the development server
+### 2. Build project
 
 ```sh
-bun dev
+bun run build
+```
+
+### 3. Start project
+
+```sh
+bun start
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
