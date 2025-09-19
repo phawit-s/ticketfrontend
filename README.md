@@ -20,6 +20,13 @@ bun run build
 bun start
 ```
 
+### 3.1 Authentication
+
+```sh
+Username: admin@example.com
+password: admin123
+```
+
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
 You can start editing the page by modifying `src/app/page.tsx`. The page auto-updates as you edit the file.
